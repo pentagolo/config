@@ -19,3 +19,11 @@ Describes the configuration of my personal computers.
 
 #### Zoom pages
 - Install: https://addons.mozilla.org/en-US/firefox/addon/zoom-page/
+
+#### Support javascript plugins
+- Install: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+
+#### Anti Adware (Chip)
+- Install: https://greasyfork.org/en/scripts/4294-antiadware
+
+
